@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none !important;
+}
+@import "./style.css";
+@import "./style.ltr.css";
+
+@import "./style.header-spaceship-variant-one.css";
+@import "./style.header-spaceship-variant-one.ltr.css";

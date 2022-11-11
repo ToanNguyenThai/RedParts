@@ -550,7 +550,7 @@ export default function HomeBody() {
                         </div>
                       </div>
                     </div>
-                    <div className="product-card__info">
+                    <div className="product-card__info">  
                       <div className="product-card__meta">
                         <span className="product-card__meta-title">SKU:</span>{" "}
                         573-23743-C
